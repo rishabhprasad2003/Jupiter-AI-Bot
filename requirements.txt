@@ -1,5 +1,6 @@
 streamlit
 torch
+accelerate
 transformers
 sentence-transformers
 faiss-cpu
