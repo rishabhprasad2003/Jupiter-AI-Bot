@@ -34,4 +34,6 @@ This project builds an intelligent chatbot using large language models (LLMs) to
 ---
 
 ## 🗂️ Project Structure
+![Chatbot UI](assets/ChatBot_Screenshot.png)
+
 
